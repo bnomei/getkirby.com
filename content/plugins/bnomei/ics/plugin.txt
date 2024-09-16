@@ -1,0 +1,23 @@
+Title: ICS
+
+----
+
+Repository: https://github.com/bnomei/kirby3-ics
+
+----
+
+Category: dates
+
+----
+
+Description: Generate ICS files for sharing calendar events from a page content representation or using custom routes.
+
+----
+
+Example:
+
+```php
+$page->ics()->download(
+    $page->slug() . '.ics'
+);
+```
