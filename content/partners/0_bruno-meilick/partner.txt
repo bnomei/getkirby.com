@@ -90,7 +90,7 @@ Expertise:
 - Newsletter and transactional email
 - Responsive, custom styled emails
 - Relational Databases and MongoDB
-- PHP, Alpine.js, Tailwind CSS
+- PHP, Alpine/HTMX/Datastar, Tailwind CSS
 - CI/CD
 - Setups with 2000+ content pages
 - Setups with 500+ users
